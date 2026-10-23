@@ -6,3 +6,4 @@ date "+%d.%m.%Y - %H:%M:%S"
 echo ""
 echo "Today's calendar"
 ncal -b -M
+# for a calendar starting with sunday replace ncal -b -M with cal
